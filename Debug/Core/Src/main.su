@@ -1,0 +1,5 @@
+../Core/Src/main.c:11:5:main	16	static
+../Core/Src/main.c:46:6:SystemClock_Config	4	static
+../Core/Src/main.c:56:13:MX_GPIO_Init	4	static
+../Core/Src/main.c:69:6:UART1_Init	4	static
+../Core/Src/main.c:87:6:TIM2_delay	16	static
